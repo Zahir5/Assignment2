@@ -1,0 +1,3 @@
+# Ignore all CSV and text files in the question_one directory
+question_one/*.csv
+question_one/*.txt
